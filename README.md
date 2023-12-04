@@ -45,4 +45,4 @@ For questions or issues, please contact the author.
 ## Author
 [Shivam Wadhwa](http://github.com/wadhwashivam)
 
-** Stay organized with this simple and elegant calendar!**
+* Stay organized with this simple and elegant calendar!*
